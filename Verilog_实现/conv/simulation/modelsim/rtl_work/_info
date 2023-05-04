@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/Source_Competition/FPGA/conv_1/simulation/modelsim
+vconv
+!s110 1668515293
+!i10b 1
+!s100 ZP[;BEzmk[D2R5RAeV7O?0
+IYXMWkZghh=Bni>BM1odM]1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1668515265
+8E:/Source_Competition/FPGA/conv_1/conv.v
+FE:/Source_Competition/FPGA/conv_1/conv.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1668515293.000000
+!s107 E:/Source_Competition/FPGA/conv_1/conv.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Source_Competition/FPGA/conv_1|E:/Source_Competition/FPGA/conv_1/conv.v|
+!i113 1
+Z3 o-vlog01compat -work work
+Z4 !s92 -vlog01compat -work work +incdir+E:/Source_Competition/FPGA/conv_1
+Z5 tCvgOpt 0
+vtb_conv
+!s110 1668515294
+!i10b 1
+!s100 LCOO_IfnN`2QPM<Vd0WDP2
+I^4cZ`z[deDa]gIBgn2Afd0
+R1
+R0
+w1668515266
+8E:/Source_Competition/FPGA/conv_1/tb_conv.v
+FE:/Source_Competition/FPGA/conv_1/tb_conv.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1668515294.000000
+!s107 E:/Source_Competition/FPGA/conv_1/tb_conv.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Source_Competition/FPGA/conv_1|E:/Source_Competition/FPGA/conv_1/tb_conv.v|
+!i113 1
+R3
+R4
+R5
